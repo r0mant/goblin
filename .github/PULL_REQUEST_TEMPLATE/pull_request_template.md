@@ -1,3 +1,11 @@
+---
+name: Pull request
+about: Submit a pull request
+title: ""
+labels: ""
+assignees: ""
+---
+
 **Description**
 <!--Provide high-level overview of what the PR is for.-->
 
