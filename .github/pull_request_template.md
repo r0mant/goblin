@@ -16,10 +16,8 @@
 
 <!--This PR addresses the following issues.-->
 * Closes #, refs #
-
 <!--This PR depends on the following PRs (e.g. planet, satellite, etc.).-->
 * Requires #
-
 <!--This PR is a back-/forward-port of the following PR.-->
 * Ports #
 
